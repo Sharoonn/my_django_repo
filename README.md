@@ -1,1 +1,1 @@
-test django repository
+test django-project repository
